@@ -7,7 +7,8 @@ const Dashboard = () => {
             {/* total sells in 15/day */}
             {/* total Return Orders*/}
             {/* total sells in Total Income */}
-            Dashboard</div>
+            Dashboard
+        </div>
 
     )
 }
